@@ -1,0 +1,11 @@
+D:\Nashik03-04-2023\DOTNET\METCDAC\00DemoBasic\bin\Debug\00DemoBasic.exe.config
+D:\Nashik03-04-2023\DOTNET\METCDAC\00DemoBasic\bin\Debug\00DemoBasic.exe
+D:\Nashik03-04-2023\DOTNET\METCDAC\00DemoBasic\bin\Debug\00DemoBasic.pdb
+D:\Nashik03-04-2023\DOTNET\METCDAC\00DemoBasic\obj\Debug\00DemoBasic.csproj.AssemblyReference.cache
+D:\Nashik03-04-2023\DOTNET\METCDAC\00DemoBasic\obj\Debug\00DemoBasic.csproj.SuggestedBindingRedirects.cache
+D:\Nashik03-04-2023\DOTNET\METCDAC\00DemoBasic\obj\Debug\00DemoBasic.csproj.CoreCompileInputs.cache
+D:\Nashik03-04-2023\DOTNET\METCDAC\00DemoBasic\obj\Debug\00DemoBasic.exe
+D:\Nashik03-04-2023\DOTNET\METCDAC\00DemoBasic\obj\Debug\00DemoBasic.pdb
+D:\Nashik03-04-2023\DOTNET\METCDAC\00DemoBasic\bin\Debug\Calculator.dll
+D:\Nashik03-04-2023\DOTNET\METCDAC\00DemoBasic\bin\Debug\Calculator.pdb
+D:\Nashik03-04-2023\DOTNET\METCDAC\00DemoBasic\obj\Debug\00DemoBasic.csproj.CopyComplete

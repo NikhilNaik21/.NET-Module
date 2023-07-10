@@ -1,0 +1,6 @@
+D:\Nashik03-04-2023\DOTNET\METCDAC\CMathLibrary\bin\Debug\CMathLibrary.dll
+D:\Nashik03-04-2023\DOTNET\METCDAC\CMathLibrary\bin\Debug\CMathLibrary.pdb
+D:\Nashik03-04-2023\DOTNET\METCDAC\CMathLibrary\obj\Debug\CMathLibrary.csproj.AssemblyReference.cache
+D:\Nashik03-04-2023\DOTNET\METCDAC\CMathLibrary\obj\Debug\CMathLibrary.csproj.CoreCompileInputs.cache
+D:\Nashik03-04-2023\DOTNET\METCDAC\CMathLibrary\obj\Debug\CMathLibrary.dll
+D:\Nashik03-04-2023\DOTNET\METCDAC\CMathLibrary\obj\Debug\CMathLibrary.pdb
