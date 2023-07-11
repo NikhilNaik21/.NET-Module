@@ -1,0 +1,8 @@
+D:\Nashik03-04-2023\DOTNET\METCDAC\00DemoOOP(Interface)\bin\Debug\00DemoOOP(Interface).exe.config
+D:\Nashik03-04-2023\DOTNET\METCDAC\00DemoOOP(Interface)\bin\Debug\00DemoOOP(Interface).exe
+D:\Nashik03-04-2023\DOTNET\METCDAC\00DemoOOP(Interface)\bin\Debug\00DemoOOP(Interface).pdb
+D:\Nashik03-04-2023\DOTNET\METCDAC\00DemoOOP(Interface)\obj\Debug\00DemoOOP(Interface).csproj.AssemblyReference.cache
+D:\Nashik03-04-2023\DOTNET\METCDAC\00DemoOOP(Interface)\obj\Debug\00DemoOOP(Interface).csproj.SuggestedBindingRedirects.cache
+D:\Nashik03-04-2023\DOTNET\METCDAC\00DemoOOP(Interface)\obj\Debug\00DemoOOP(Interface).csproj.CoreCompileInputs.cache
+D:\Nashik03-04-2023\DOTNET\METCDAC\00DemoOOP(Interface)\obj\Debug\00DemoOOP(Interface).exe
+D:\Nashik03-04-2023\DOTNET\METCDAC\00DemoOOP(Interface)\obj\Debug\00DemoOOP(Interface).pdb

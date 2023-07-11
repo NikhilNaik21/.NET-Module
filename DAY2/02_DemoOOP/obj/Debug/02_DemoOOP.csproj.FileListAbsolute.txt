@@ -1,0 +1,8 @@
+D:\Nashik03-04-2023\DOTNET\METCDAC\02_DemoOOP\bin\Debug\02_DemoOOP.exe.config
+D:\Nashik03-04-2023\DOTNET\METCDAC\02_DemoOOP\bin\Debug\02_DemoOOP.exe
+D:\Nashik03-04-2023\DOTNET\METCDAC\02_DemoOOP\bin\Debug\02_DemoOOP.pdb
+D:\Nashik03-04-2023\DOTNET\METCDAC\02_DemoOOP\obj\Debug\02_DemoOOP.csproj.AssemblyReference.cache
+D:\Nashik03-04-2023\DOTNET\METCDAC\02_DemoOOP\obj\Debug\02_DemoOOP.csproj.SuggestedBindingRedirects.cache
+D:\Nashik03-04-2023\DOTNET\METCDAC\02_DemoOOP\obj\Debug\02_DemoOOP.csproj.CoreCompileInputs.cache
+D:\Nashik03-04-2023\DOTNET\METCDAC\02_DemoOOP\obj\Debug\02_DemoOOP.exe
+D:\Nashik03-04-2023\DOTNET\METCDAC\02_DemoOOP\obj\Debug\02_DemoOOP.pdb
