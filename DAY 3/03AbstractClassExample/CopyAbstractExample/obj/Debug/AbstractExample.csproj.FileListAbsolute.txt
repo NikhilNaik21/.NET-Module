@@ -1,8 +1,0 @@
-D:\Nashik03-04-2023\DOTNET\03AbstractClassExample\CopyAbstractExample\obj\Debug\AbstractExample.csproj.AssemblyReference.cache
-D:\Nashik03-04-2023\DOTNET\03AbstractClassExample\CopyAbstractExample\obj\Debug\AbstractExample.csproj.SuggestedBindingRedirects.cache
-D:\Nashik03-04-2023\DOTNET\03AbstractClassExample\CopyAbstractExample\obj\Debug\AbstractExample.csproj.CoreCompileInputs.cache
-D:\Nashik03-04-2023\DOTNET\03AbstractClassExample\CopyAbstractExample\bin\Debug\CopyAbstractExample.exe.config
-D:\Nashik03-04-2023\DOTNET\03AbstractClassExample\CopyAbstractExample\bin\Debug\CopyAbstractExample.exe
-D:\Nashik03-04-2023\DOTNET\03AbstractClassExample\CopyAbstractExample\bin\Debug\CopyAbstractExample.pdb
-D:\Nashik03-04-2023\DOTNET\03AbstractClassExample\CopyAbstractExample\obj\Debug\CopyAbstractExample.exe
-D:\Nashik03-04-2023\DOTNET\03AbstractClassExample\CopyAbstractExample\obj\Debug\CopyAbstractExample.pdb

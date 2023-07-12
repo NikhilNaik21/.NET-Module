@@ -1,3 +1,0 @@
-D:\Nashik03-04-2023\DOTNET\03AbstractClassExample\00demoAccessModifiers\obj\Debug\00demoAccessModifiers.csproj.AssemblyReference.cache
-D:\Nashik03-04-2023\DOTNET\03AbstractClassExample\00demoAccessModifiers\obj\Debug\00demoAccessModifiers.csproj.SuggestedBindingRedirects.cache
-D:\Nashik03-04-2023\DOTNET\03AbstractClassExample\00demoAccessModifiers\obj\Debug\00demoAccessModifiers.csproj.CoreCompileInputs.cache

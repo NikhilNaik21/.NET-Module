@@ -1,8 +1,0 @@
-D:\Nashik03-04-2023\DOTNET\03AbstractClassExample\_04DemoOOPSingleton\bin\Debug\_04DemoOOPSingleton.exe.config
-D:\Nashik03-04-2023\DOTNET\03AbstractClassExample\_04DemoOOPSingleton\bin\Debug\_04DemoOOPSingleton.exe
-D:\Nashik03-04-2023\DOTNET\03AbstractClassExample\_04DemoOOPSingleton\bin\Debug\_04DemoOOPSingleton.pdb
-D:\Nashik03-04-2023\DOTNET\03AbstractClassExample\_04DemoOOPSingleton\obj\Debug\_04DemoOOPSingleton.csproj.AssemblyReference.cache
-D:\Nashik03-04-2023\DOTNET\03AbstractClassExample\_04DemoOOPSingleton\obj\Debug\_04DemoOOPSingleton.csproj.SuggestedBindingRedirects.cache
-D:\Nashik03-04-2023\DOTNET\03AbstractClassExample\_04DemoOOPSingleton\obj\Debug\_04DemoOOPSingleton.csproj.CoreCompileInputs.cache
-D:\Nashik03-04-2023\DOTNET\03AbstractClassExample\_04DemoOOPSingleton\obj\Debug\_04DemoOOPSingleton.exe
-D:\Nashik03-04-2023\DOTNET\03AbstractClassExample\_04DemoOOPSingleton\obj\Debug\_04DemoOOPSingleton.pdb
