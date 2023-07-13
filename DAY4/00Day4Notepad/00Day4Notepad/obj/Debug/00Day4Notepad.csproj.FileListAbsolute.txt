@@ -1,0 +1,8 @@
+D:\Nashik03-04-2023\DOTNET\00Day4Notepad\00Day4Notepad\bin\Debug\00Day4Notepad.exe.config
+D:\Nashik03-04-2023\DOTNET\00Day4Notepad\00Day4Notepad\bin\Debug\00Day4Notepad.exe
+D:\Nashik03-04-2023\DOTNET\00Day4Notepad\00Day4Notepad\bin\Debug\00Day4Notepad.pdb
+D:\Nashik03-04-2023\DOTNET\00Day4Notepad\00Day4Notepad\obj\Debug\00Day4Notepad.csproj.AssemblyReference.cache
+D:\Nashik03-04-2023\DOTNET\00Day4Notepad\00Day4Notepad\obj\Debug\00Day4Notepad.csproj.SuggestedBindingRedirects.cache
+D:\Nashik03-04-2023\DOTNET\00Day4Notepad\00Day4Notepad\obj\Debug\00Day4Notepad.csproj.CoreCompileInputs.cache
+D:\Nashik03-04-2023\DOTNET\00Day4Notepad\00Day4Notepad\obj\Debug\00Day4Notepad.exe
+D:\Nashik03-04-2023\DOTNET\00Day4Notepad\00Day4Notepad\obj\Debug\00Day4Notepad.pdb
