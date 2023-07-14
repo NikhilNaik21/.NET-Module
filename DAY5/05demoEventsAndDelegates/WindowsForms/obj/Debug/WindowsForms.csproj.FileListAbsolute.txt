@@ -1,0 +1,10 @@
+D:\Nashik03-04-2023\DOTNET\05demoEventsAndDelegates\WindowsForms\bin\Debug\WindowsForms.exe.config
+D:\Nashik03-04-2023\DOTNET\05demoEventsAndDelegates\WindowsForms\bin\Debug\WindowsForms.exe
+D:\Nashik03-04-2023\DOTNET\05demoEventsAndDelegates\WindowsForms\bin\Debug\WindowsForms.pdb
+D:\Nashik03-04-2023\DOTNET\05demoEventsAndDelegates\WindowsForms\obj\Debug\WindowsForms.csproj.AssemblyReference.cache
+D:\Nashik03-04-2023\DOTNET\05demoEventsAndDelegates\WindowsForms\obj\Debug\WindowsForms.csproj.SuggestedBindingRedirects.cache
+D:\Nashik03-04-2023\DOTNET\05demoEventsAndDelegates\WindowsForms\obj\Debug\WindowsForms.Properties.Resources.resources
+D:\Nashik03-04-2023\DOTNET\05demoEventsAndDelegates\WindowsForms\obj\Debug\WindowsForms.csproj.GenerateResource.cache
+D:\Nashik03-04-2023\DOTNET\05demoEventsAndDelegates\WindowsForms\obj\Debug\WindowsForms.csproj.CoreCompileInputs.cache
+D:\Nashik03-04-2023\DOTNET\05demoEventsAndDelegates\WindowsForms\obj\Debug\WindowsForms.exe
+D:\Nashik03-04-2023\DOTNET\05demoEventsAndDelegates\WindowsForms\obj\Debug\WindowsForms.pdb
