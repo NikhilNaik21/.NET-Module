@@ -1,4 +1,3 @@
-//Logger class + FileStream ==> Write log in txt file
 
 using System;
 using System.IO;
