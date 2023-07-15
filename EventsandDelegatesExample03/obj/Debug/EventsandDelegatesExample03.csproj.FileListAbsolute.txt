@@ -1,8 +1,0 @@
-D:\Nashik03-04-2023\DOTNET\00Day4Notepad\EventsandDelegatesExample03\bin\Debug\EventsandDelegatesExample03.exe.config
-D:\Nashik03-04-2023\DOTNET\00Day4Notepad\EventsandDelegatesExample03\bin\Debug\EventsandDelegatesExample03.exe
-D:\Nashik03-04-2023\DOTNET\00Day4Notepad\EventsandDelegatesExample03\bin\Debug\EventsandDelegatesExample03.pdb
-D:\Nashik03-04-2023\DOTNET\00Day4Notepad\EventsandDelegatesExample03\obj\Debug\EventsandDelegatesExample03.csproj.AssemblyReference.cache
-D:\Nashik03-04-2023\DOTNET\00Day4Notepad\EventsandDelegatesExample03\obj\Debug\EventsandDelegatesExample03.csproj.SuggestedBindingRedirects.cache
-D:\Nashik03-04-2023\DOTNET\00Day4Notepad\EventsandDelegatesExample03\obj\Debug\EventsandDelegatesExample03.csproj.CoreCompileInputs.cache
-D:\Nashik03-04-2023\DOTNET\00Day4Notepad\EventsandDelegatesExample03\obj\Debug\EventsandDelegatesExample03.exe
-D:\Nashik03-04-2023\DOTNET\00Day4Notepad\EventsandDelegatesExample03\obj\Debug\EventsandDelegatesExample03.pdb
