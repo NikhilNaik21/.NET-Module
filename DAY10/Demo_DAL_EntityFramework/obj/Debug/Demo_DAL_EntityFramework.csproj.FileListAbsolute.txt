@@ -1,0 +1,16 @@
+C:\Users\CDAC\Downloads\CDACCSharp\CDACCSharp\Demo_DAL_EntityFramework\obj\Debug\Demo_DAL_EntityFramework.csproj.AssemblyReference.cache
+C:\Users\CDAC\Downloads\CDACCSharp\CDACCSharp\Demo_DAL_EntityFramework\obj\Debug\Demo_DAL_EntityFramework.csproj.SuggestedBindingRedirects.cache
+C:\Users\CDAC\Downloads\CDACCSharp\CDACCSharp\Demo_DAL_EntityFramework\obj\Debug\Demo_DAL_EntityFramework.csproj.CoreCompileInputs.cache
+C:\Users\CDAC\Downloads\CDACCSharp\CDACCSharp\Demo_DAL_EntityFramework\bin\Debug\Demo_DAL_EntityFramework.exe.config
+C:\Users\CDAC\Downloads\CDACCSharp\CDACCSharp\Demo_DAL_EntityFramework\bin\Debug\Demo_DAL_EntityFramework.exe
+C:\Users\CDAC\Downloads\CDACCSharp\CDACCSharp\Demo_DAL_EntityFramework\bin\Debug\Demo_DAL_EntityFramework.pdb
+C:\Users\CDAC\Downloads\CDACCSharp\CDACCSharp\Demo_DAL_EntityFramework\obj\Debug\Demo_DAL_EntityFramework.exe
+C:\Users\CDAC\Downloads\CDACCSharp\CDACCSharp\Demo_DAL_EntityFramework\obj\Debug\Demo_DAL_EntityFramework.pdb
+D:\Nashik03-04-2023\DOTNET\day10\Demo_DAL_EntityFramework\bin\Debug\Demo_DAL_EntityFramework.exe.config
+D:\Nashik03-04-2023\DOTNET\day10\Demo_DAL_EntityFramework\bin\Debug\Demo_DAL_EntityFramework.exe
+D:\Nashik03-04-2023\DOTNET\day10\Demo_DAL_EntityFramework\bin\Debug\Demo_DAL_EntityFramework.pdb
+D:\Nashik03-04-2023\DOTNET\day10\Demo_DAL_EntityFramework\obj\Debug\Demo_DAL_EntityFramework.csproj.AssemblyReference.cache
+D:\Nashik03-04-2023\DOTNET\day10\Demo_DAL_EntityFramework\obj\Debug\Demo_DAL_EntityFramework.csproj.SuggestedBindingRedirects.cache
+D:\Nashik03-04-2023\DOTNET\day10\Demo_DAL_EntityFramework\obj\Debug\Demo_DAL_EntityFramework.csproj.CoreCompileInputs.cache
+D:\Nashik03-04-2023\DOTNET\day10\Demo_DAL_EntityFramework\obj\Debug\Demo_DAL_EntityFramework.exe
+D:\Nashik03-04-2023\DOTNET\day10\Demo_DAL_EntityFramework\obj\Debug\Demo_DAL_EntityFramework.pdb
